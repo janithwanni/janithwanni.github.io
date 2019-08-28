@@ -80,12 +80,4 @@ The next method of formulating probability is through probability models. Normal
 Let $$X$$ be the event of finding $$x$$ number of fish buns with fish in them. 
 Then the probability of finding 1 fish bun with fish in it can be written as follows.( _This notation and formula might be confusing at first. Bear in mind this is just an example and we will explain these probabilistic models in the future_) \$$Pr(X=1) = {6\choose 1} * (0.4)^1 * (0.6)^5 $$
 
-## Overview of Random Variables and Distribution Functions
-
-_todo fill this_
-## Conditional Probability, Independence and Bayes Theorem
-
-_todo fill this_
-## Chain rule and Sum rule
-
 _todo fill this_
