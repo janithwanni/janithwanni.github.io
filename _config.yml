@@ -16,7 +16,7 @@
 title: Janith Wanniarachchi
 email: janithcwanni@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Stayin the present. Focus on the process. The product will come to you.
+  Stay in the present. Focus on the process. The product will come to you.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: janithcwanni
@@ -29,6 +29,13 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+header_pages:
+  - poems.html
+  - stories.md
+  - stat.md
+  - about.md
+
+show_excerpts: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
